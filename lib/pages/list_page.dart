@@ -42,7 +42,7 @@ class _ListPageState extends State<ListPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('tempat api'),),
+      appBar: AppBar(title: Text('tempat apix'),),
       body: Center(
         child: ListView.builder(
           itemCount: daftarWisata,
